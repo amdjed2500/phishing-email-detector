@@ -40,5 +40,8 @@ Synthetic dataset of ~200 emails (phishing + legitimate) for demonstration. Repl
 - [ ] Browser extension
 - [ ] Threat intel feed integration
 
+## Author
+Amdjed Salhi
+
 ## License
 MIT
