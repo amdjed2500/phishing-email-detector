@@ -1,0 +1,16 @@
+label,subject,body,sender
+1,Urgent: Verify your account,Your account has been suspended. Click here to verify immediately http://paypal-secure.tk/login,security@paypal-verify.com
+1,Action required: password reset,We detected unusual activity. Reset your password now at http://192.168.1.5/reset,admin@micros0ft.com
+1,Congratulations you won,You are the lucky winner! Claim your prize at http://prize-club.xyz/claim,lottery@winner-club.ml
+0,"Team meeting tomorrow","Hi team, reminder about the meeting tomorrow at 10am in room 3.",alice@company.com
+0,Project update,Please find attached the Q3 project update document.,bob@company.com
+1,Your invoice is ready,Pay your overdue invoice now or your service will be terminated http://invoice-pay.ga/pay,billing@pay-now.cf
+0,Lunch plans,Anyone up for lunch today? Let's meet at the cafeteria.,carol@company.com
+1,Security alert: unusual login,Unusual login detected. Confirm your identity at http://apple-id-verify.top/confirm,security@apple-id.com
+0,Weekly report,Attached is the weekly status report for review.,dave@company.com
+1,Account locked,Your account has been locked due to suspicious activity. Unlock now http://bank-secure.gq/unlock,alerts@bank-secure.com
+0,Reminder: code review,Please review the PR #42 before end of day.,eve@company.com
+1,Final notice: payment due,Final notice! Pay now to avoid service interruption http://pay-final.club/pay,finance@pay-final.com
+0,Meeting notes,Notes from today's standup are attached.,frank@company.com
+1,Verify your identity,We need to verify your identity. Click the link below http://verify-id.ml/check,verify@identity-check.com
+0,Happy birthday,Happy birthday to our team member! Cake in the break room.,grace@company.com
